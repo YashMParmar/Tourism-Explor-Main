@@ -1,3 +1,4 @@
 # Tourism-Explor-Main
 
-![screencapture-file-C-Users-Dell-Desktop-Task-9-Single-page-multipage-UI-index-html-2023-03-04-10_59_35](https://user-images.githubusercontent.com/120628111/222943392-1fbc0a58-b4e2-4aaf-a059-f1a9f3557640.png)
+
+![screencapture-file-C-Users-Dell-Desktop-Task-10-Tourism-Explore-main-index-html-2023-03-04-11_02_19](https://user-images.githubusercontent.com/120628111/222943414-59c8fc08-ab72-4445-89a2-2f0a7e8ed36f.png)
